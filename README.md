@@ -1,0 +1,2 @@
+# PoshemTech
+poshem devops praticals
